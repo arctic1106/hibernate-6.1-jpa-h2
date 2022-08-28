@@ -1,2 +1,1 @@
-# hibernate-h2
-hibernate-h2
+# Hibernate 6.1 using JPA
